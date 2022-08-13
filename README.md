@@ -2,7 +2,7 @@
 - 👀 I’m interested in competitive coding, caomputer aided design  and  making IOT projects. - 🌱 I’m currently learning programming languages and cad softwares also exploring different IOT projects.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my email address :: 20bsm036@iiitdmj.ac.in 
--                        my codechef profile address:: https://www.codechef.com/users/nayankumar_303
+-     my codechef profile address:: https://www.codechef.com/users/nayankumar_303
 - 
 
 <!---
