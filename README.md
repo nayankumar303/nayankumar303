@@ -8,8 +8,6 @@
 
 🏛️ Academic Pursuits: Currently pursuing my Btech degree in Smart Manufacturing at PDPM IIITDM Jabalpur, I am gaining a solid foundation in engineering principles and technologies related to manufacturing processes and automation. I am passionate about applying these skills in the realm of data analysis.
 
-💡 Government Job Aspirant: Alongside my technical pursuits, I am also driven by a passion for public service. I am actively preparing for government job opportunities, leveraging my skills and knowledge to make a positive impact on society through a career in the public sector.
-
 🔍 On this GitHub profile, you'll find my projects showcasing my data analysis skills, including data cleaning, manipulation, exploratory data analysis, and visualization. I am constantly exploring new datasets and techniques to expand my expertise.
 
 ✉️ Let's connect: I am always open to collaborations, learning opportunities, and discussions. Feel free to reach out to me through email or other available channels. Let's learn and grow together!
